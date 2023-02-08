@@ -1,0 +1,22 @@
+h1 {
+  color:midnightblue;}
+
+  body {
+    background-image: url("https://lh3.googleusercontent.com/pw/AMWts8BaWZUIv9M9jvLh1v8DhxGM3RqzLvi0eQq_zJztI34gRJt0UaNFSFfwxdNMHb7PV91gkJHg40d1L9qsj4dZJFl3zB0xvUataPrsb8OUFwsHRBrichfBaHYu88S49RcIa7LNS7PbOqYp0Q6N-nSGK0wT=w1744-h994-no?authuser=0");
+    background-color: goldenrod;
+  }
+
+    .cursive { font-family: cursive;}
+
+    div.a { font-size: 150%;}
+    
+      .center { margin:auto;
+              width:50%;
+              border:3px silver;
+              padding: 10px;}
+    
+        div.element { border-style: ridge;
+               border-radius: 10px;
+               border-width: 5px;
+               border-color: greenyellow;
+               background-color: azure;}
